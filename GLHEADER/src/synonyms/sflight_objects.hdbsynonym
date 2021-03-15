@@ -1,0 +1,20 @@
+{
+  "S_SAIRPORT": {
+    "target": {
+      "object": "SAIRPORT",
+      "schema": "SFLIGHT"
+    }
+  },
+  "S_SBOOK": {
+    "target": {
+      "object": "SBOOK",
+      "schema": "SFLIGHT"
+    }
+  },
+  "S_GEOTABLE": {
+    "target": {
+      "object": "GEOTABLE",
+      "schema": "SFLIGHT"
+    }
+  }
+}

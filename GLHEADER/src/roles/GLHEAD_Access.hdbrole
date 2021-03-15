@@ -1,0 +1,12 @@
+{
+  "role": {
+    "name": "GLHEAD_Access",
+    "schema_privileges": [
+      {
+        "privileges": [
+          "SELECT"
+        ]
+      }
+    ]
+  }
+}
